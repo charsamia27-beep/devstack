@@ -104,5 +104,6 @@ up to `App`.
 
 ## 📤 Submission
 
-- GitHub Repository Link:
-- Live Site Link:
+- GitHub Repository Link: https://github.com/charsamia27-beep/devstack
+- Live Site Link:  https://devstack-six-iota.vercel.app
+
